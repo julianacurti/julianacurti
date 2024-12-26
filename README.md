@@ -20,18 +20,21 @@ Meu nome é Juliana e sou 🎓 Formada em Análise e Desenvolvimento de Sistemas
           
 
 ## ⭐ Tecnologias que já tive contato: ⭐
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px"/>
 
-## Status
+## 📋 Status
 <div align="center">
  
 ![Status do perfil da juliana curti](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianacurti&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianacurti&theme=dracula)
 
 </div>
 
-## Me encontre
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-cristina-da-silva/)
+## 🔍 Me encontre
+<div align="right">
+ 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-cristina-da-silva/target="_blank")
 
+</div>
 
 
 
