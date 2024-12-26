@@ -17,11 +17,6 @@ Meu nome é Juliana e sou 🎓 Formada em Análise e Desenvolvimento de Sistemas
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-          
-
-## ⭐ Tecnologias que já tive contato: ⭐
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px"/>
-
 ## 📋 Status
 <div align="center">
  
