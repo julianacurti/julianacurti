@@ -22,6 +22,9 @@ Meu nome é Juliana e sou 🎓 Formada em Análise e Desenvolvimento de Sistemas
 ## ⭐ Tecnologias que já tive contato: ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" height="50px" />
 
-          
+## Status
+[![Status do perfil da juliana curti](https://github-readme-stats.vercel.app/api?username=julianacurti&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacurti&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)         
 
           
