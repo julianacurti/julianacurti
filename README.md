@@ -30,11 +30,7 @@ Meu nome é Juliana e sou 🎓 Formada em Análise e Desenvolvimento de Sistemas
 </div>
 
 ## 🔍 Me encontre
-<div align="right">
- 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-cristina-da-silva/target="_blank")
-
-</div>
 
 
 
