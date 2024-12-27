@@ -10,7 +10,7 @@ Meu nome é Juliana e sou 🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 👯 Procuro colaborar em: 
 - 📫 Como entrar em contato comigo: julianacurti09@gmail.com
 
-## 🌟 Tecnologias com as quais estou trabalhando atualemte: 🌟
+## 🌟 Tecnologias com as quais estou trabalhando atualmente: 🌟
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
